@@ -1,0 +1,5 @@
+ 
+ 
+  <-----------------README FILE----------------->
+  1]Vector Quantization is used to compressed the image by forming the cluster in image.
+  2]In this we form a matrix which is connected to original image matrix by using  relative distance formula.
